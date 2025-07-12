@@ -12,6 +12,7 @@ export const languages = {
     elixir: "Elixir",
     erlang: "Erlang",
     graphql: "GraphQL",
+    typescript: "TypeScript/TSX",
     go: "Go",
     haskell: "Haskell",
     html: "HTML",
@@ -36,7 +37,6 @@ export const languages = {
     sql: "SQL",
     swift: "Swift",
     toml: "TOML",
-    typescript: "TypeScript/TSX",
     xml: "XML",
     yaml: "YAML",
 }

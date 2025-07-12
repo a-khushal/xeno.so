@@ -47,7 +47,7 @@ export const useUIStore = create<UIState>()(
             theme: "candy",
             setTheme: (theme) => set({ theme }),
 
-            language: "javascript",
+            language: "typescript",
             setLanguage: (language) => set({ language }),
 
             hasHydrated: false,
